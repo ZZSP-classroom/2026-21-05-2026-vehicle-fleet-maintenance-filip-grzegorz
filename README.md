@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=24025464&assignment_repo_type=AssignmentRepo)
 # VehicleFleetMaintenance
 
 This repository contains the backend system for a comprehensive motor fleet management
@@ -21,6 +22,7 @@ Exemplary structure:
 │ ├── crud/
 │ └── db/
 ```
+
 
 Project structure:
 <img width="1048" height="601" alt="image" src="https://github.com/user-attachments/assets/a3196633-922c-4f9c-a9f9-1b78a01a9632" />
